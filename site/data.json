@@ -7825,6 +7825,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 12,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17043,6 +17050,15 @@
           "distance": 10128.8,
           "elevation_gain": 171.0,
           "moving_time": 4216.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18038783687"
+          ],
+          "count": 1,
+          "distance": 10276.0,
+          "elevation_gain": 135.0,
+          "moving_time": 4216.0
         }
       },
       "Walk": {
@@ -17105,7 +17121,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:08:25.932003+00:00",
+  "generated_at": "2026-04-09T16:12:10.290238+00:00",
   "other_bucket": "OtherSports",
   "repo": "baybuga/strava",
   "source": "strava",
