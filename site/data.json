@@ -7888,6 +7888,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 13,
+      "subtype": "Kitesurf",
+      "type": "Kitesurf",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 15,
+      "subtype": "Kitesurf",
+      "type": "Kitesurf",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16854,6 +16868,18 @@
           "moving_time": 7612.0
         }
       },
+      "Kitesurf": {
+        "2026-04-23": {
+          "activity_ids": [
+            "18223775611",
+            "18225812864"
+          ],
+          "count": 2,
+          "distance": 2577.4,
+          "elevation_gain": 145.0,
+          "moving_time": 3923.0
+        }
+      },
       "Ride": {
         "2026-04-19": {
           "activity_ids": [
@@ -17243,7 +17269,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:01:59.136614+00:00",
+  "generated_at": "2026-04-23T16:24:55.306759+00:00",
   "other_bucket": "OtherSports",
   "repo": "baybuga/strava",
   "source": "strava",

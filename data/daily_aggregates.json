@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T16:01:59.119465+00:00",
+  "generated_at": "2026-04-23T16:24:55.289017+00:00",
   "years": {
     "2017": {
       "Workout": {
@@ -8962,6 +8962,18 @@
           "distance": 37045.1,
           "elevation_gain": 3681.1,
           "moving_time": 7612.0
+        }
+      },
+      "Kitesurf": {
+        "2026-04-23": {
+          "activity_ids": [
+            "18223775611",
+            "18225812864"
+          ],
+          "count": 2,
+          "distance": 2577.4,
+          "elevation_gain": 145.0,
+          "moving_time": 3923.0
         }
       },
       "Ride": {

@@ -14649,5 +14649,31 @@
     "start_date_local": "2026-04-19T15:24:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 1106.0,
+    "elevation_gain": 66.0,
+    "id": "18223775611",
+    "moving_time": 1580.0,
+    "name": "Afternoon Kitesurf",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-04-23T13:02:27Z",
+    "type": "Kitesurf",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 1471.4,
+    "elevation_gain": 79.0,
+    "id": "18225812864",
+    "moving_time": 2343.0,
+    "name": "Afternoon Kitesurf",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-04-23T15:52:24Z",
+    "type": "Kitesurf",
+    "year": 2026
   }
 ]
