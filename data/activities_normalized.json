@@ -14675,5 +14675,31 @@
     "start_date_local": "2026-04-23T15:52:24Z",
     "type": "Kitesurf",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18304050556",
+    "moving_time": 3250.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T12:45:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18304050804",
+    "moving_time": 1781.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-29T12:15:37Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

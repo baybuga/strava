@@ -7902,6 +7902,20 @@
       "subtype": "Kitesurf",
       "type": "Kitesurf",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 12,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17265,11 +17279,31 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2634.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18304050556"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3250.0
+        }
+      },
+      "Workout": {
+        "2026-04-29": {
+          "activity_ids": [
+            "18304050804"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1781.0
         }
       }
     }
   },
-  "generated_at": "2026-04-28T16:31:42.130293+00:00",
+  "generated_at": "2026-04-29T16:23:13.817326+00:00",
   "other_bucket": "OtherSports",
   "repo": "baybuga/strava",
   "source": "strava",
