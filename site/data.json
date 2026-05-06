@@ -7923,6 +7923,20 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 12,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 13,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17221,6 +17235,15 @@
           "distance": 2711.8,
           "elevation_gain": 48.0,
           "moving_time": 1875.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18396590735"
+          ],
+          "count": 1,
+          "distance": 1897.0,
+          "elevation_gain": 16.0,
+          "moving_time": 1701.0
         }
       },
       "WeightTraining": {
@@ -17315,11 +17338,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1781.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18396981274"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1688.0
         }
       }
     }
   },
-  "generated_at": "2026-05-05T16:17:36.516723+00:00",
+  "generated_at": "2026-05-06T16:23:21.533376+00:00",
   "other_bucket": "OtherSports",
   "repo": "baybuga/strava",
   "source": "strava",
