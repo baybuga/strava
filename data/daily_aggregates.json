@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:59:14.004905+00:00",
+  "generated_at": "2026-06-01T19:51:00.262654+00:00",
   "years": {
     "2017": {
       "Workout": {
@@ -9464,6 +9464,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3439.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18739671408"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4105.0
         }
       },
       "Workout": {
