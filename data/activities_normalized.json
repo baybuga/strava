@@ -14896,5 +14896,31 @@
     "start_date_local": "2026-06-04T12:21:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18797795472",
+    "moving_time": 2406.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-05T13:11:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 9370.0,
+    "elevation_gain": 142.9,
+    "id": "18805625400",
+    "moving_time": 4010.0,
+    "name": "Sabah Ko\u015fu",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T09:35:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
