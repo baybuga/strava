@@ -14922,5 +14922,44 @@
     "start_date_local": "2026-06-06T09:35:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18834475838",
+    "moving_time": 3194.0,
+    "name": "\u00d6\u011fle Aras\u0131 A\u011f\u0131rl\u0131k Antrenman\u0131",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T12:24:44Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 941.9,
+    "elevation_gain": 0.0,
+    "id": "18838426884",
+    "moving_time": 1499.0,
+    "name": "Ak\u015fam U\u00e7urtma S\u00f6rf\u00fc",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-06-08T18:16:05Z",
+    "type": "Kitesurf",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 102.2,
+    "elevation_gain": 0.0,
+    "id": "18839194813",
+    "moving_time": 105.0,
+    "name": "Ak\u015fam U\u00e7urtma S\u00f6rf\u00fc",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-06-08T19:30:25Z",
+    "type": "Kitesurf",
+    "year": 2026
   }
 ]
