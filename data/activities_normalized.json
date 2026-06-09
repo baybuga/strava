@@ -14961,5 +14961,18 @@
     "start_date_local": "2026-06-08T19:30:25Z",
     "type": "Kitesurf",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 10010.0,
+    "elevation_gain": 136.0,
+    "id": "18848455153",
+    "moving_time": 4348.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T12:19:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
