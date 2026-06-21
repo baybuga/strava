@@ -15039,5 +15039,31 @@
     "start_date_local": "2026-06-20T15:36:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 966.8,
+    "elevation_gain": 142.0,
+    "id": "19011735516",
+    "moving_time": 1120.0,
+    "name": "\u00d6\u011fleden Sonra U\u00e7urtma S\u00f6rf\u00fc",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-06-21T17:18:07Z",
+    "type": "Kitesurf",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 553.7,
+    "elevation_gain": 17.0,
+    "id": "19012674964",
+    "moving_time": 536.0,
+    "name": "Ak\u015fam U\u00e7urtma S\u00f6rf\u00fc",
+    "raw_activity_type": "Kitesurf",
+    "raw_type": "Kitesurf",
+    "start_date_local": "2026-06-21T19:03:15Z",
+    "type": "Kitesurf",
+    "year": 2026
   }
 ]
