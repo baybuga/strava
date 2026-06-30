@@ -15117,5 +15117,31 @@
     "start_date_local": "2026-06-29T12:18:19Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 506.1,
+    "elevation_gain": 0.0,
+    "id": "19113582935",
+    "moving_time": 901.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-29T20:43:45Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 7109.4,
+    "elevation_gain": 72.0,
+    "id": "19125926588",
+    "moving_time": 2845.0,
+    "name": "Ak\u015fam Ko\u015fu",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T18:43:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
